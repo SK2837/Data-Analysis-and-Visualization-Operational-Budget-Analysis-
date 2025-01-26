@@ -1,5 +1,5 @@
 # Rutgers Budget Analytics Dashboard
-##Project Overview
+## Project Overview
 A comprehensive budget analysis and visualization system tracking $5.63B across Rutgers University (2018-2025), providing insights into revenue streams, expense allocations, and budget trends across multiple organizational levels.
 Features
 
@@ -15,23 +15,23 @@ Expenses by Divisions
 Expenses by GI
 
 
-##Key Findings
+## Key Findings
 
-###Overall Trends:
+### Overall Trends:
 
 Revenue and Expenses see steady rise from 2022 to 2025
 Total budget reached 5.63 Billion in 2025
 Central units showing deficit in overall revenue
 
 
-###Campus-wise Analysis:
+### Campus-wise Analysis:
 
 NB and RBHS leading with highest revenue (~$2 billion by 2025)
 Central Units reaching ~$1.5 billion
 Camden (CMD) and Newark (NWK) showing steady growth from $300M to $500M
 
 
-###Expense Distribution:
+### Expense Distribution:
 
 Salaries and Fringe benefits account for major expenses
 NB and RBHS spent around $1.2B on salaries
@@ -39,7 +39,7 @@ $500M-$600M allocated for fringe benefits in 2025
 
 
 
-###Technical Implementation
+### Technical Implementation
 
 Data Processing: Python, SQL for data pipeline development
 Visualization: Tableau for dashboard creation
@@ -54,7 +54,7 @@ GI Organizations
 
 
 
-##Installation & Usage
+## Installation & Usage
 
 Software Requirements:
 
@@ -79,12 +79,12 @@ Administrative access to university financial data
 
 
 
-##Contributing
+## Contributing
 
 Sai Adarsh Kasula
 Karthik Narra
 
-##Acknowledgments
+## Acknowledgments
 
 Rutgers University
 Department of Rutgers Business School
