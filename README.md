@@ -81,11 +81,13 @@ Administrative access to university financial data
 
 ## Contributing
 
-Sai Adarsh Kasula
-Karthik Narra
+- Sai Adarsh Kasula
+- Karthik Narra
 
 ## Acknowledgments
 
 Rutgers University
+
 Department of Rutgers Business School
+
 Prof Nuria Diaz
